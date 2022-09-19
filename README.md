@@ -4,5 +4,5 @@ Checks items in inventories to see if they were duped as part of the Crystal Hol
 .
 .
 .
-.
+.                                                                                                                                                                                                    
                                                                                                                                                                                                 ![dupe](https://user-images.githubusercontent.com/112203267/190962343-e268805c-21bf-417e-8788-e65914e5f3c9.png)
